@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[שמואלי]]></title>
+  <title><![CDATA[שמואלי - מתכונים]]></title>
   <link href="http://shmueli.co/atom.xml" rel="self"/>
   <link href="http://shmueli.co/"/>
-  <updated>2014-02-23T20:31:08+02:00</updated>
+  <updated>2014-02-23T21:20:24+02:00</updated>
   <id>http://shmueli.co/</id>
   <author>
     <name><![CDATA[Shmueli]]></name>
@@ -14,11 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[hello]]></title>
-    <link href="http://shmueli.co/blog/2014/02/23/hello/"/>
-    <updated>2014-02-23T19:45:49+02:00</updated>
-    <id>http://shmueli.co/blog/2014/02/23/hello</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[עוגת פרג נימוחה]]></title>
+    <link href="http://shmueli.co/blog/2014/02/23/poppy-seed-cake/"/>
+    <updated>2014-02-23T21:08:32+02:00</updated>
+    <id>http://shmueli.co/blog/2014/02/23/poppy-seed-cake</id>
+    <content type="html"><![CDATA[<h3>מצרכים</h3>
+
+<ol>
+<li>250 גר׳ פרג טחון</li>
+</ol>
+
 ]]></content>
   </entry>
   
