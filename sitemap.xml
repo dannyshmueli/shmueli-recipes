@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://dannyshmueli.github.io/shmueli-recipes/blog/2014/02/23/hello/</loc>
+        <loc>http://shmueli.co/blog/2014/02/23/hello/</loc>
         <lastmod>2014-02-23T19:45:49+02:00</lastmod>
     </url>
     <url>
-        <loc>http://dannyshmueli.github.io/shmueli-recipes/blog/archives/</loc>
+        <loc>http://shmueli.co/blog/archives/</loc>
         <lastmod>2014-02-23T19:45:49+02:00</lastmod>
     </url>
     <url>
-        <loc>http://dannyshmueli.github.io/shmueli-recipes/</loc>
+        <loc>http://shmueli.co/</loc>
         <lastmod>2014-02-23T19:45:49+02:00</lastmod>
     </url>
     <url>
-        <loc>http://dannyshmueli.github.io/shmueli-recipes/robots.txt</loc>
+        <loc>http://shmueli.co/robots.txt</loc>
         <lastmod>2014-02-23T19:43:58+02:00</lastmod>
     </url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://dannyshmueli.github.io/shmueli-recipes/sitemap.xml 
+Sitemap: http://shmueli.co/sitemap.xml 
