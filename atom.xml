@@ -4,7 +4,7 @@
   <title><![CDATA[שמואלי - מתכונים]]></title>
   <link href="http://shmueli.co/atom.xml" rel="self"/>
   <link href="http://shmueli.co/"/>
-  <updated>2014-02-24T17:06:09+02:00</updated>
+  <updated>2014-03-01T17:33:20+02:00</updated>
   <id>http://shmueli.co/</id>
   <author>
     <name><![CDATA[Shmueli]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ממרח קשיו]]></title>
+    <link href="http://shmueli.co/blog/2014/03/01/cashew-paste/"/>
+    <updated>2014-03-01T17:24:07+02:00</updated>
+    <id>http://shmueli.co/blog/2014/03/01/cashew-paste</id>
+    <content type="html"><![CDATA[<p>מבוסס על מדגם סטיטיסטי של מתכוני גבינת / ממרח קשיו ברשת וטוויסט אישי.</p>
+
+<!-- more -->
+
+
+<h3>מצרכים</h3>
+
+<ul>
+<li>200 גר׳ קשיו</li>
+<li>2 שיני שום</li>
+<li>מלח גס</li>
+<li>מיץ מחצי לימון</li>
+<li>2 כפות טחינה גולמית</li>
+<li>שמן זית</li>
+<li>&frac12; כוס מים (בערך)</li>
+</ul>
+
+
+<h3>הכנה</h3>
+
+<p>לערבב הכל בבלנדר ולהוסיף מים בשביל להגיע למרקם הרצוי.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[עוגת פירות יבשים]]></title>
