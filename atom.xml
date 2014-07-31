@@ -4,7 +4,7 @@
   <title><![CDATA[שמואלי - מתכונים]]></title>
   <link href="http://shmueli.co/atom.xml" rel="self"/>
   <link href="http://shmueli.co/"/>
-  <updated>2014-06-29T08:59:34+03:00</updated>
+  <updated>2014-07-31T20:55:07+03:00</updated>
   <id>http://shmueli.co/</id>
   <author>
     <name><![CDATA[Shmueli]]></name>
@@ -264,10 +264,7 @@
     <id>http://shmueli.co/blog/2014/02/24/dry-fruit-cake</id>
     <content type="html"><![CDATA[<p>מבוסס על המתכון של סבתא נילי</p>
 
-<p>תמונה פה</p>
-
-<!-- more -->
-
+<p><img src="http://shmueli.co/images/posts/dry-fruit-cake.png" width="300" alt="alt text" /></p>
 
 <h3>מצרכים</h3>
 
