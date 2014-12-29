@@ -31,20 +31,9 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
-  <script src="//cdn.localizejs.com/localize.js"></script>
-<script>!function(a){if(!a.Localize){a.Localize={};for(var e=["translate","untranslate","phrase","initialize","translatePage","setLanguage","getLanguage","detectLanguage","untranslatePage","bootstrap","prefetch","on","off"],t=0;t<e.length;t++)a.Localize[e[t]]=function(){}}}(window);</script>
-
-<script>
-  // Localize.initialize({
-  //   key: '7GKHf2Aao26Vn', 
-  //   rememberLanguage: true,
-  //   saveNewPhrases: true,
-  //   translateBody: true
-  // });
-  //Localize.setLanguage('en');
-</script>
   
 
+  Included file 'google_translate.html' not found in _includes directory
 </head>
 
 <body dir="rtl"   >
@@ -71,6 +60,13 @@
 <ul class="main-navigation">
   <li><a href="/">בלוג</a></li>
   <li><a href="/blog/archives">ארכיב</a></li>
+  <li>
+  	<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'iw', includedLanguages: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  </li>
 </ul>
 
 </nav>
