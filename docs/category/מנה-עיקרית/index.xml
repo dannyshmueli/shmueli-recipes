@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>מנה עיקרית on מתכוני משפחת שמואלי</title>
+    <link>http://shmueli.co/category/%D7%9E%D7%A0%D7%94-%D7%A2%D7%99%D7%A7%D7%A8%D7%99%D7%AA/</link>
+    <description>Recent content in מנה עיקרית on מתכוני משפחת שמואלי</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <lastBuildDate>Sat, 04 Apr 2020 15:33:29 +0300</lastBuildDate>
+    
+	<atom:link href="http://shmueli.co/category/%D7%9E%D7%A0%D7%94-%D7%A2%D7%99%D7%A7%D7%A8%D7%99%D7%AA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>פסטה מאק אנד צ׳יז</title>
+      <link>http://shmueli.co/recipes/vegan-mac-and-cheese/</link>
+      <pubDate>Sat, 04 Apr 2020 15:33:29 +0300</pubDate>
+      
+      <guid>http://shmueli.co/recipes/vegan-mac-and-cheese/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

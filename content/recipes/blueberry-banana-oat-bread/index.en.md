@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2020-03-28T16:11:47+03:00
-draft: true    
+draft: false    
 title:  "Blueberry Banana Oat Bread" # The title of your awesome recipe
 image: banana-bread-cut.jpg # Name of image in recipe bundle
 imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator

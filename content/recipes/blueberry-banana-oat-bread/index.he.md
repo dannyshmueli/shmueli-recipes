@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2020-03-28T16:11:47+03:00
-draft: true    
+draft: false    
 title:  "לחם בננה עם שיבולת שועל ופירות יער" # The title of your awesome recipe
 image: banana-bread-cut.jpg # Name of image in recipe bundle
 morePhotos: 

@@ -6,9 +6,19 @@
     <description>Recent content on Shmueli Family Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>he</language>
+    <lastBuildDate>Sat, 28 Mar 2020 16:11:47 +0300</lastBuildDate>
     
 	<atom:link href="http://shmueli.co/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blueberry Banana Oat Bread</title>
+      <link>http://shmueli.co/en/recipes/blueberry-banana-oat-bread/</link>
+      <pubDate>Sat, 28 Mar 2020 16:11:47 +0300</pubDate>
+      
+      <guid>http://shmueli.co/en/recipes/blueberry-banana-oat-bread/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

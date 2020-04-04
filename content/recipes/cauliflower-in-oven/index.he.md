@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2020-04-04T11:21:31+03:00
-draft: true    
+draft: false    
 title:  "כרובית בתנור סגנון אייל שני" # The title of your awesome recipe
 image: cauliflower-in-oven.jpg # Name of image in recipe bundle
 imagecredit: 
