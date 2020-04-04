@@ -1,0 +1,59 @@
+baseURL = "http://shmueli.co/"
+languageCode = "he"
+title = "Shmueli Recipes"
+theme = "gochowdown"
+DefaultContentLanguage = "he"
+defaultContentLanguageInSubdir = false
+publishDir = "docs"
+
+
+canonifyurls = true
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsOptions = "linenos=table"
+footercontent = ""
+
+
+
+[languages]
+  [languages.he]
+  	languagedirection = "rtl"
+    languageName = "Hebrew"
+    title = "מתכוני משפחת שמואלי"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    title = "Shmueli Family Recipes"
+    weight = 2
+
+[[languages.en.menu.main]]
+  name = "Home"
+  weight = 1
+  url = "/"
+[[languages.en.menu.main]]
+  name =  "Category"
+  weight = 2
+  url = "/category/"
+[[languages.en.menu.main]] 
+  name = "Tags"
+  weight = 3
+  url = "/tags/"
+
+[[languages.he.menu.main]] 
+  name = "תגיות"
+  weight = 3
+  url = "/tags/"
+[[languages.he.menu.main]]
+  name =  "קטגוריות"
+  weight = 2
+  url = "/category/"
+
+[[languages.he.menu.main]]
+  name = "בית"
+  weight = 1
+  url = "/"
+[taxonomies]
+  category = "category"
+  cusine = "cuisine"
+  tag = "tags"

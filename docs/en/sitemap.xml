@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://shmueli.co/en/category/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="http://shmueli.co/category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://shmueli.co/en/category/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://shmueli.co/en/cuisine/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="http://shmueli.co/cuisine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://shmueli.co/en/cuisine/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://shmueli.co/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="http://shmueli.co/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://shmueli.co/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://shmueli.co/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="http://shmueli.co/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://shmueli.co/en/tags/"
+                />
+  </url>
+  
+</urlset>

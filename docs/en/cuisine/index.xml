@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuisine on Shmueli Family Recipes</title>
+    <link>http://shmueli.co/en/cuisine/</link>
+    <description>Recent content in Cuisine on Shmueli Family Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    
+	<atom:link href="http://shmueli.co/en/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
