@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dinner on מתכוני משפחת שמואלי</title>
+    <link>http://shmueli.co/category/dinner/</link>
+    <description>Recent content in dinner on מתכוני משפחת שמואלי</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <lastBuildDate>Sat, 28 Mar 2020 11:05:40 +0300</lastBuildDate>
+    
+	<atom:link href="http://shmueli.co/category/dinner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>קציצות טופו</title>
+      <link>http://shmueli.co/recipes/tofu-meatballs/</link>
+      <pubDate>Sat, 28 Mar 2020 11:05:40 +0300</pubDate>
+      
+      <guid>http://shmueli.co/recipes/tofu-meatballs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
