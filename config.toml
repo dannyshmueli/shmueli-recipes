@@ -1,4 +1,4 @@
-baseURL = "http://shmueli.co/"
+baseURL = "https://shmueli.co/"
 languageCode = "he"
 title = "Shmueli Recipes"
 theme = "gochowdown"
