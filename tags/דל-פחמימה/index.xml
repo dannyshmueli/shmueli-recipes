@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>דל פחמימה on מתכוני משפחת שמואלי</title>
+    <link>https://shmueli.co/tags/%D7%93%D7%9C-%D7%A4%D7%97%D7%9E%D7%99%D7%9E%D7%94/</link>
+    <description>Recent content in דל פחמימה on מתכוני משפחת שמואלי</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <lastBuildDate>Sat, 09 May 2020 14:21:31 +0300</lastBuildDate>
+    
+	<atom:link href="https://shmueli.co/tags/%D7%93%D7%9C-%D7%A4%D7%97%D7%9E%D7%99%D7%9E%D7%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>במיה ברוטב עגבניות עם קצת עדשים</title>
+      <link>https://shmueli.co/recipes/okra-in-tomato-lentils-sauce/</link>
+      <pubDate>Sat, 09 May 2020 14:21:31 +0300</pubDate>
+      
+      <guid>https://shmueli.co/recipes/okra-in-tomato-lentils-sauce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>סייטן שווארמה עם אורז כרובית</title>
+      <link>https://shmueli.co/recipes/seitan-shawarma/</link>
+      <pubDate>Sat, 09 May 2020 10:21:31 +0300</pubDate>
+      
+      <guid>https://shmueli.co/recipes/seitan-shawarma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

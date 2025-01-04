@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>איטלקי on מתכוני משפחת שמואלי</title>
+    <link>https://shmueli.co/cuisine/%D7%90%D7%99%D7%98%D7%9C%D7%A7%D7%99/</link>
+    <description>Recent content in איטלקי on מתכוני משפחת שמואלי</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <lastBuildDate>Sat, 09 May 2020 10:11:01 +0300</lastBuildDate>
+    
+	<atom:link href="https://shmueli.co/cuisine/%D7%90%D7%99%D7%98%D7%9C%D7%A7%D7%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>פסטה בלונז עם ביונד מיט</title>
+      <link>https://shmueli.co/recipes/beyond-meet-bolognese/</link>
+      <pubDate>Sat, 09 May 2020 10:11:01 +0300</pubDate>
+      
+      <guid>https://shmueli.co/recipes/beyond-meet-bolognese/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

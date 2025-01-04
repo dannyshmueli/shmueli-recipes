@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://shmueli.co/en/recipes/blueberry-banana-oat-bread/</loc>
+    <lastmod>2020-03-28T16:11:47+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://shmueli.co/recipes/blueberry-banana-oat-bread/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shmueli.co/en/recipes/blueberry-banana-oat-bread/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shmueli.co/en/recipes/</loc>
+    <lastmod>2020-03-28T16:11:47+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://shmueli.co/recipes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shmueli.co/en/recipes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shmueli.co/en/</loc>
+    <lastmod>2020-03-28T16:11:47+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://shmueli.co/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shmueli.co/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shmueli.co/en/tags/</loc>
+    <lastmod>2020-03-28T16:11:47+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://shmueli.co/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shmueli.co/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shmueli.co/en/tags/tag1/</loc>
+    <lastmod>2020-03-28T16:11:47+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shmueli.co/en/tags/tag2/</loc>
+    <lastmod>2020-03-28T16:11:47+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shmueli.co/en/tags/tag3/</loc>
+    <lastmod>2020-03-28T16:11:47+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shmueli.co/en/category/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://shmueli.co/category/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shmueli.co/en/category/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://shmueli.co/en/cuisine/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://shmueli.co/cuisine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shmueli.co/en/cuisine/"
+                />
+  </url>
+  
+</urlset>
